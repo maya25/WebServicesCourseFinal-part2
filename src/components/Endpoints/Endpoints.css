@@ -1,0 +1,54 @@
+.endpoints {
+	max-width: 850px;
+	background: #f3f3f3;
+	margin: auto;
+	padding: 15px;
+	margin-top: 25px;
+}
+
+.endpoints-title {
+	background: #d8d8d8;
+	color: bisque;
+	font-size: 32px;
+}
+
+.endpoint-card {
+	min-height: 100px;
+	padding: 15px;
+	box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+	background: #fff;
+}
+
+.param-input {
+	display: block !important;
+}
+
+.param-btn {
+	margin-left: 5px !important;
+}
+
+.endpoint-response {
+	padding: 15px;
+	background: #d8d8d8;
+	margin-top: 15px;
+}
+
+.content-btn {
+	cursor: pointer;
+}
+
+.error {
+	 color: #000;
+	 background-color: #ff5f5f;
+	 padding: 15px;
+	 border-radius: 5px;
+	 margin-top: 15px;
+ }
+
+.success {
+	color: #000;
+	background-color: #61ffa8;
+	padding: 15px;
+	border-radius: 5px;
+	margin-top: 15px;
+}
